@@ -1,0 +1,15 @@
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\obj\Debug\net7.0\atividade-extra.csproj.AssemblyReference.cache
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\obj\Debug\net7.0\atividade-extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\obj\Debug\net7.0\atividade-extra.AssemblyInfoInputs.cache
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\obj\Debug\net7.0\atividade-extra.AssemblyInfo.cs
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\obj\Debug\net7.0\atividade-extra.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\bin\Debug\net7.0\atividade-extra.exe
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\bin\Debug\net7.0\atividade-extra.deps.json
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\bin\Debug\net7.0\atividade-extra.runtimeconfig.json
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\bin\Debug\net7.0\atividade-extra.dll
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\bin\Debug\net7.0\atividade-extra.pdb
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\obj\Debug\net7.0\atividade-extra.dll
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\obj\Debug\net7.0\refint\atividade-extra.dll
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\obj\Debug\net7.0\atividade-extra.pdb
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\obj\Debug\net7.0\atividade-extra.genruntimeconfig.cache
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-atividade-29.03.23\atividade-extra\obj\Debug\net7.0\ref\atividade-extra.dll
